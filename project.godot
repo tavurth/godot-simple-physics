@@ -28,10 +28,6 @@ action_impulse={
  ]
 }
 
-[physics]
-
-3d/physics_engine="Bullet"
-
 [rendering]
 
 environment/default_environment="res://default_env.tres"
