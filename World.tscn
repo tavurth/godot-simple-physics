@@ -48,5 +48,5 @@ material/0 = null
 shape = SubResource( 4 )
 
 [node name="Scaling" parent="." instance=ExtResource( 1 )]
-transform = Transform( 0.999987, -0.00519406, 0, 0.00519406, 0.999987, 0, 0, 0, 1, 0, 0.713482, -0.642005 )
+transform = Transform( 0.999987, -0.00519406, 0, 0.00519406, 0.999987, 0, 0, 0, 1, 0, 0.713482, -1.81427 )
 
